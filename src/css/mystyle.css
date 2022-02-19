@@ -1,0 +1,89 @@
+/*
+Main
+*/
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+body {
+  font-family: 'Kanit', sans-serif;
+  background-image: url('https://images7.alphacoders.com/878/878465.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div.card-setting {
+  background-color: rgb(255, 255, 255);
+}
+div.remove-hr-card {
+  border-bottom: none;
+}
+.text-header-h1 {
+  margin-top: 100px;
+  color: aqua;
+}
+div.fix-input-text {
+  width: 50%;
+  margin: 80px auto 80px auto;
+}
+img.img-profile {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.link-user {
+  text-decoration: none;
+  color: black;
+}
+.link-user:hover {
+  text-decoration: none;
+  color: black;
+}
+.link-user:focus {
+  text-decoration: none;
+  color: black;
+}
+.text-username {
+  margin-left: 15px;
+  color: black;
+  font-size: 18px;
+}
+img.img-setting {
+  width: 100%;
+  border-radius: 5px;
+}
+.label-size-icon {
+  width: 100px;
+}
+
+/*
+Profile
+*/
+img.img-user-bigimg {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+div.card-profile {
+  background-color: rgb(255, 235, 205);
+  border-radius: 15px;
+}
+a.link_website {
+  text-decoration: none;
+  color: rgb(0, 89, 255);
+}
+.img-map {
+  column-count: 3;
+}
+img.img-of-user {
+  width: 100%;
+  margin-top: 16px;
+  border-radius: 5px;
+}
+
+/*
+Font Setting
+*/
+.fs16 {
+  font-size: 16px;
+}
+.fs-bold {
+  font-weight: bold;
+}
