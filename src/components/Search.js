@@ -19,7 +19,7 @@ const Search = () => {
     <>
       <div className="container">
         <h1 className="text-center text-header-h1">React Unsplash API</h1>
-        <p className="text-center text-light">Create by 624259027 and 624259028 :)</p>
+        <p className="text-center text-light">Create by Saran Wringsimma 624259027 :)</p>
         <form onSubmit={handleSubmit}>
           <div className="fix-input-text input-group text-center">
             <input
