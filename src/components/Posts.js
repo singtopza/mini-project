@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaRegHeart, FaRegComment } from "react-icons/fa";
-
+// GetImages
 const GetImages = ({id}) => {
   return (
     <>
